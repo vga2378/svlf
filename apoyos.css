@@ -1,0 +1,18 @@
+.centrado-porcentual {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+.imagencita{
+      
+      margin-top: 8em;
+      margin-bottom: 3em;
+    }
+    .ini{
+      margin-left:1em
+    }
+    .margen{
+      margin-right: 2em;
+      margin-left:2em;}

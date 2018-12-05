@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Bariol';
+  src:
+       url('Bariol_Regular.otf');
+}
+
+.bariol {
+    font-family: 'Bariol';
+}
